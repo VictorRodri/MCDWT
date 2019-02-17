@@ -1,0 +1,82 @@
+Forward transform
+IO::decomposition:readL: read /tmp/dwt/000_LL
+IO::decomposition:readL: read /tmp/dwt/000_LL
+IO::decomposition:readH: read /tmp/dwt/000_LH
+IO::decomposition:readH: read /tmp/dwt/000_HL
+IO::decomposition:readH: read /tmp/dwt/000_HH
+IO::decomposition:writeL: written /tmp/mc_stockholm_000_LL
+IO::decomposition:writeH: written /tmp/mc_stockholm_000_LH
+IO::decomposition:writeH: written /tmp/mc_stockholm_000_HL
+IO::decomposition:writeH: written /tmp/mc_stockholm_000_HH
+IO::decomposition:readL: read /tmp/dwt/001_LL
+IO::decomposition:readH: read /tmp/dwt/001_LH
+IO::decomposition:readH: read /tmp/dwt/001_HL
+IO::decomposition:readH: read /tmp/dwt/001_HH
+IO::decomposition:readL: read /tmp/dwt/002_LL
+IO::decomposition:readH: read /tmp/dwt/002_LH
+IO::decomposition:readH: read /tmp/dwt/002_HL
+IO::decomposition:readH: read /tmp/dwt/002_HH
+image: max=83.03832218511944 min=-302.90920970504243
+DWT::forward: LL: max=38.02000339184999 min=-523.8071338932583
+DWT::forward: LH: max=264.101053435262 min=-215.8985748942341
+DWT::forward: HL: max=205.4469329818826 min=-264.05414970919054
+DWT::forward: HH: max=181.88729569780529 min=-150.02256750819924
+IO::decomposition:writeL: written /tmp/mc_stockholm_001_LL
+IO::decomposition:writeH: written /tmp/mc_stockholm_001_LH
+IO::decomposition:writeH: written /tmp/mc_stockholm_001_HL
+IO::decomposition:writeH: written /tmp/mc_stockholm_001_HH
+IO::decomposition:writeL: written /tmp/mc_stockholm_002_LL
+IO::decomposition:writeH: written /tmp/mc_stockholm_002_LH
+IO::decomposition:writeH: written /tmp/mc_stockholm_002_HL
+IO::decomposition:writeH: written /tmp/mc_stockholm_002_HH
+IO::decomposition:readL: read /tmp/dwt/003_LL
+IO::decomposition:readH: read /tmp/dwt/003_LH
+IO::decomposition:readH: read /tmp/dwt/003_HL
+IO::decomposition:readH: read /tmp/dwt/003_HH
+IO::decomposition:readL: read /tmp/dwt/004_LL
+IO::decomposition:readH: read /tmp/dwt/004_LH
+IO::decomposition:readH: read /tmp/dwt/004_HL
+IO::decomposition:readH: read /tmp/dwt/004_HH
+image: max=77.15401837059865 min=-305.80121274594495
+DWT::forward: LL: max=50.79606869465633 min=-530.0912640912978
+DWT::forward: LH: max=236.4799448977326 min=-203.57116048356767
+DWT::forward: HL: max=229.7253776870842 min=-224.65762171024443
+DWT::forward: HH: max=166.3198151658283 min=-171.61906992760143
+IO::decomposition:writeL: written /tmp/mc_stockholm_003_LL
+IO::decomposition:writeH: written /tmp/mc_stockholm_003_LH
+IO::decomposition:writeH: written /tmp/mc_stockholm_003_HL
+IO::decomposition:writeH: written /tmp/mc_stockholm_003_HH
+IO::decomposition:writeL: written /tmp/mc_stockholm_004_LL
+IO::decomposition:writeH: written /tmp/mc_stockholm_004_LH
+IO::decomposition:writeH: written /tmp/mc_stockholm_004_HL
+IO::decomposition:writeH: written /tmp/mc_stockholm_004_HH
+IO::decomposition:readL: read /tmp/dwt/000_LL
+IO::decomposition:readH: read /tmp/dwt/000_LH
+IO::decomposition:readH: read /tmp/dwt/000_HL
+IO::decomposition:readH: read /tmp/dwt/000_HH
+IO::decomposition:writeL: written /tmp/mc_stockholm_000_LL
+IO::decomposition:writeH: written /tmp/mc_stockholm_000_LH
+IO::decomposition:writeH: written /tmp/mc_stockholm_000_HL
+IO::decomposition:writeH: written /tmp/mc_stockholm_000_HH
+IO::decomposition:readL: read /tmp/dwt/002_LL
+IO::decomposition:readH: read /tmp/dwt/002_LH
+IO::decomposition:readH: read /tmp/dwt/002_HL
+IO::decomposition:readH: read /tmp/dwt/002_HH
+IO::decomposition:readL: read /tmp/dwt/004_LL
+IO::decomposition:readH: read /tmp/dwt/004_LH
+IO::decomposition:readH: read /tmp/dwt/004_HL
+IO::decomposition:readH: read /tmp/dwt/004_HH
+image: max=86.58736655413709 min=-299.2919746552332
+DWT::forward: LL: max=39.56326065501184 min=-539.3327991612864
+DWT::forward: LH: max=229.84697619757802 min=-207.3717723947943
+DWT::forward: HL: max=203.63971906673586 min=-210.95104920952264
+DWT::forward: HH: max=161.22283048861038 min=-161.13810983896232
+IO::decomposition:writeL: written /tmp/mc_stockholm_002_LL
+IO::decomposition:writeH: written /tmp/mc_stockholm_002_LH
+IO::decomposition:writeH: written /tmp/mc_stockholm_002_HL
+IO::decomposition:writeH: written /tmp/mc_stockholm_002_HH
+IO::decomposition:writeL: written /tmp/mc_stockholm_004_LL
+IO::decomposition:writeH: written /tmp/mc_stockholm_004_LH
+IO::decomposition:writeH: written /tmp/mc_stockholm_004_HL
+IO::decomposition:writeH: written /tmp/mc_stockholm_004_HH
+
